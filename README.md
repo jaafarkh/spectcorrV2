@@ -15,8 +15,8 @@ The header file, dll and intermediate library are already contained in the proje
 Copy the file libfftw3-3.dll from projectdir/SigProcess/fftw32 for 32-bit building or projectdir/SigProcess/fftw64
 for 64-bit building and put it in your application .exe folder
 
-Current build configuration uses x64.
-Once, you extract the downloaded zip file, open the project and select x86 build setting.
+Current build configuration uses x64 Release.
+Once, you extract the downloaded zip file, open the project and select x64 Release build setting.
 The latest c++ toolset is required to build the project.
 
 
