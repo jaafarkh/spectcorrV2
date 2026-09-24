@@ -10,7 +10,7 @@ Please cite the code as:
 
 
 # Project Dependency
-- FFTW library is required to compile and run the project. Depending on your buil configuration CPU type, 
+- FFTW library 3.3.5 is required to compile and run the project. Depending on your buil configuration CPU type, 
 The header file, dll and intermediate library are already contained in the project.
 Copy the file libfftw3-3.dll from projectdir/SigProcess/fftw32 for 32-bit building or projectdir/SigProcess/fftw64
 for 64-bit building and put it in your application .exe folder
