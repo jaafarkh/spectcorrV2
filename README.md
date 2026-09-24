@@ -3,10 +3,10 @@ this repository is dedicated to provide c++ implementation of spectral correlati
 Using visual studio 2017.
 The project is based on c++ console application. 
 the application calculates spectral correlation/coherence using ACP, fast ACP, FAM, Antoni et al Fast SC, 
-Borghesani and Antoni fast dirichlet based SC, and Aggregated FAM.
+Borghesani and Antoni fast dirichlet based SC, FastSCP, and Aggregated FAM.
 
 Please cite the code as:
--Aggregated FFT Accumulation Method to Compute Spectral Correlation and Coherence and its Application in Bearing Fault Diagnosis 
+-Aggregated FFT Accumulation Method for Cyclic Spectral Analysis and Its Application to Rolling Element Bearing Fault Diagnosis
 
 
 # Project Dependency
